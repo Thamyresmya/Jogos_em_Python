@@ -1,0 +1,5 @@
+casa
+carro
+aviao
+cachorro
+vaca
